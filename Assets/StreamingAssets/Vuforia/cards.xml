@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="images" size="10.000000 24.000000" />
+    <ImageTarget name="flashman" size="10.000000 17.857143" />
+    <ImageTarget name="husky" size="10.000000 17.857143" />
+    <ImageTarget name="queen" size="10.000000 13.972603" />
+    <ImageTarget name="joker" size="10.000000 15.773196" />
+    <ImageTarget name="king" size="10.000000 13.846154" />
+  </Tracking>
+</QCARConfig>
